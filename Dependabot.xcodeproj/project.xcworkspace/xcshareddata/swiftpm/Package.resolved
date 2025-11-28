@@ -2,6 +2,15 @@
   "originHash" : "68fadfc584e2fa15c2ded78132d252a033cd0933acf4608ca5feb3815a407809",
   "pins" : [
     {
+      "identity" : "intercom-ios-sp",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/intercom/intercom-ios-sp",
+      "state" : {
+        "revision" : "44156c72b76d6aa1ab5029f21339444326a23220",
+        "version" : "19.3.4"
+      }
+    },
+    {
       "identity" : "nwwebsocket",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/pusher/NWWebSocket.git",
