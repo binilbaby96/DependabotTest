@@ -16,7 +16,7 @@ let package = Package(
         ),
         .package(
             url: "https://github.com/pusher/pusher-websocket-swift.git",
-            exact: "10.1.6"
+            exact: "10.1.5"
         ),
         .package(
             url: "https://github.com/bitmark-inc/tweetnacl-swiftwrap",
