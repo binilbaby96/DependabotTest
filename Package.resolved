@@ -1,15 +1,5 @@
 {
-  "originHash" : "252e865564b9ba200d69595b164e8b865ef90e3af2879558d78fa07339adbe26",
   "pins" : [
-    {
-      "identity" : "intercom-ios-sp",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/intercom/intercom-ios-sp",
-      "state" : {
-        "revision" : "44156c72b76d6aa1ab5029f21339444326a23220",
-        "version" : "19.3.4"
-      }
-    },
     {
       "identity" : "nwwebsocket",
       "kind" : "remoteSourceControl",
@@ -24,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/pusher/pusher-websocket-swift.git",
       "state" : {
-        "revision" : "886341f9dad453c9822f2525136ee2006a6c3c9e",
-        "version" : "10.1.5"
+        "revision" : "d8d7a776fa92c733891790be6e8d3e3532e79c43",
+        "version" : "10.1.6"
       }
     },
     {
@@ -38,5 +28,5 @@
       }
     }
   ],
-  "version" : 3
+  "version" : 2
 }
