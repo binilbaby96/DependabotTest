@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/pusher/pusher-websocket-swift.git",
       "state" : {
-        "revision" : "d8d7a776fa92c733891790be6e8d3e3532e79c43",
-        "version" : "10.1.6"
+        "revision" : "886341f9dad453c9822f2525136ee2006a6c3c9e",
+        "version" : "10.1.5"
       }
     },
     {
