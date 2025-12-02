@@ -31,7 +31,7 @@ let package = Package(
                 .product(name: "PusherSwift", package: "pusher-websocket-swift"),
                 .product(name: "TweetNacl", package: "tweetnacl-swiftwrap")
             ],
-            path: "."
+            path: "Sources/AppDependencies"
         )
     ]
 )
