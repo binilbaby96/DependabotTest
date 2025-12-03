@@ -39,7 +39,7 @@ let package = Package(
         .target(
             name: "AppDependencies",
             dependencies: [],
-            path: "."
+            path: "Sources/AppDependencies"
         )
     ]
 )
