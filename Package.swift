@@ -32,7 +32,7 @@ let package = Package(
         .package(url: "https://github.com/SDWebImage/SDWebImageSwiftUI.git", exact: "3.1.3"),
         .package(url: "https://github.com/getsentry/sentry-cocoa.git", exact: "8.43.0"),
         .package(url: "https://github.com/apple/swift-protobuf.git", exact: "1.28.2"),
-        .package(url: "https://github.com/tus/TUSKit", exact: "3.4.1"),
+        .package(url: "https://github.com/tus/TUSKit", exact: "3.6.0"),
         .package(url: "https://github.com/bitmark-inc/tweetnacl-swiftwrap", exact: "1.1.0")
     ],
     targets: [
