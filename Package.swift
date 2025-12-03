@@ -19,7 +19,7 @@ let package = Package(
         .package(url: "https://github.com/googleanalytics/google-tag-manager-ios-sdk.git", exact: "8.0.0"),
         .package(url: "https://github.com/google/GoogleAppMeasurement.git", exact: "11.4.0"),
         .package(url: "https://github.com/google/GoogleDataTransport.git", exact: "10.1.0"),
-        .package(url: "https://github.com/google/GoogleUtilities.git", exact: "8.0.2"),
+        .package(url: "https://github.com/google/GoogleUtilities.git", exact: "8.1.0"),
         .package(url: "https://github.com/google/grpc-binary.git", exact: "1.65.1"),
         .package(url: "https://github.com/google/gtm-session-fetcher.git", exact: "4.1.0"),
         .package(url: "https://github.com/google/interop-ios-for-google-sdks.git", exact: "100.0.0"),
