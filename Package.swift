@@ -16,7 +16,7 @@ let package = Package(
         .package(url: "https://github.com/smartlook/analytics-swift-package.git", exact: "2.2.15"),
         .package(url: "https://github.com/google/app-check.git", exact: "11.2.0"),
         .package(url: "https://github.com/firebase/firebase-ios-sdk.git", exact: "11.6.0"),
-        .package(url: "https://github.com/googleanalytics/google-tag-manager-ios-sdk.git", exact: "8.0.0"),
+        .package(url: "https://github.com/googleanalytics/google-tag-manager-ios-sdk.git", exact: "9.0.0"),
         .package(url: "https://github.com/google/GoogleAppMeasurement.git", exact: "11.4.0"),
         .package(url: "https://github.com/google/GoogleDataTransport.git", exact: "10.1.0"),
         .package(url: "https://github.com/google/GoogleUtilities.git", exact: "8.0.2"),

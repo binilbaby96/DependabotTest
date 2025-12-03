@@ -1,5 +1,4 @@
 {
-  "originHash" : "7ff0a50b013eef2de0052d100b8236dfa03caf5a103bd38c5be94f9de21e3418",
   "pins" : [
     {
       "identity" : "abseil-cpp-binary",
@@ -60,8 +59,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/googleanalytics/google-tag-manager-ios-sdk.git",
       "state" : {
-        "revision" : "484de314452681ad059200bcda01253ee930b0bb",
-        "version" : "8.0.0"
+        "revision" : "e264753e8d3c005de09fae0b73dba7c13e92655a",
+        "version" : "9.0.0"
       }
     },
     {
@@ -107,15 +106,6 @@
       "state" : {
         "revision" : "5cfe5f090c982de9c58605d2a82a4fc77b774fbd",
         "version" : "4.1.0"
-      }
-    },
-    {
-      "identity" : "intercom-ios-sp",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/intercom/intercom-ios-sp",
-      "state" : {
-        "revision" : "2163a580b1d44e0ccd1930279681c34a956ecb9e",
-        "version" : "18.7.3"
       }
     },
     {
@@ -236,5 +226,5 @@
       }
     }
   ],
-  "version" : 3
+  "version" : 2
 }
