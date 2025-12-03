@@ -23,7 +23,7 @@ let package = Package(
         .package(url: "https://github.com/google/grpc-binary.git", exact: "1.65.1"),
         .package(url: "https://github.com/google/gtm-session-fetcher.git", exact: "4.1.0"),
         .package(url: "https://github.com/google/interop-ios-for-google-sdks.git", exact: "100.0.0"),
-        .package(url: "https://github.com/googlemaps/ios-maps-sdk.git", exact: "9.2.0"),
+        .package(url: "https://github.com/googlemaps/ios-maps-sdk.git", exact: "10.6.0"),
         .package(url: "https://github.com/firebase/leveldb.git", exact: "1.22.5"),
         .package(url: "https://github.com/firebase/nanopb.git", exact: "2.30910.0"),
         .package(url: "https://github.com/pusher/NWWebSocket.git", exact: "0.5.4"),
