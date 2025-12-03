@@ -5,7 +5,26 @@
 
 version: 2
 updates:
-  - package-ecosystem: "swift" # See documentation for possible values
-    directory: "/" # Location of package manifests
+  # Swift Package Manager dependencies
+  - package-ecosystem: "swift"
+    directory: "/"
     schedule:
       interval: "weekly"
+      day: "monday"
+      time: "09:00"
+    open-pull-requests-limit: 10
+    reviewers:
+      - "LulaLife/ios-team"
+    assignees:
+      - "LulaLife/ios-team"
+    labels:
+      - "dependencies"
+      - "swift-package-manager"
+    commit-message:
+      prefix: "deps"
+      include: "scope"
+    # Group all dependency updates into a single PR
+    groups:
+      swift-dependencies:
+        patterns:
+          - "*"
